@@ -1,0 +1,5 @@
+landing_page:
+  username_field_placeholder_text: "Nom d'utilisateur"
+  password_field_placeholder_text: "Mot de passe"
+  signin_button_text: "Se connecter"
+  french_specific_button: "Allo Allo"
